@@ -205,10 +205,10 @@ API endpoints can also be tested using tools such as:
 * [x] External product API integration
 * [x] Product import service
 * [x] Shopping cart models
-* [ ] Shopping cart API
-* [ ] Order management
-* [ ] Checkout
-* [ ] Payment gateway integration
+* [x] Shopping cart API
+* [x] Order management
+* [x] Checkout
+* [x] Payment gateway integration
 * [ ] Automated tests
 * [ ] Docker
 * [ ] Deployment
